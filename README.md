@@ -1,1 +1,1 @@
-# mini0315.git.io
+# mini0315.github.io
